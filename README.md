@@ -1,7 +1,4 @@
-# Name
-
-
-## Features
+# Autoware.Auto Model
 This is a MATLAB/Simulink sample model suit for [Autoware.Auto](https://gitlab.com/autowarefoundation/autoware.auto/AutowareAuto/-/tree/1.0.0). Autoware.Auto provides a rich set of self-driving modules composed of sensing, computing, and actuation capabilities based on ROS 2 Messages. By using this model, ROS 2-based self-driving systems can be designed in MATLAB/Simulink and the source code can be easily parallelized.
 
 ## Requirement
