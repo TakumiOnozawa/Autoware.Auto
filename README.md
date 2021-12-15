@@ -33,7 +33,7 @@ Created with R2021b
   </tr>
   <tr>
     <td rowspan="3">filters</td>
-    <td>point_cloud_filter<br>_transform_nodes.slx</td>
+    <td>point_cloud_filter<br>_transform_node.slx</td>
     <td>Remove data outside the threshold.<br>Apply affine transformation to the data within the threshold.</td>
     <td>Raw Points</td>
     <td>common_interfaces/sensor_msgs<br>/msg/PointCloud2.msg</td>
@@ -51,7 +51,7 @@ Created with R2021b
     <td></td>
   </tr>
   <tr>
-    <td>voxel_grid_nodes.slx</td>
+    <td>voxel_grid_node.slx</td>
     <td>Divide the point cloud into a grid and combine the points in each grid into a single point.</td>
     <td>Fused Point Cloud</td>
     <td>common_interfaces/sensor_msgs<br>/msg/PointCloud2.msg</td>
